@@ -68,3 +68,9 @@ var movie10 ={
 	stars:"img/3_5.png",
 	youtube_trailler:"https://www.youtube.com/watch?v=qksQSt8K830"
 }
+
+
+var indexing[]={movie1,movie2,movie3,movie4,movie5,movie6,movie7,movie8,movie9,movie10};
+		
+		
+		
